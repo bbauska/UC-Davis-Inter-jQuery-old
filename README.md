@@ -1,2 +1,2 @@
-# UofM-Inter-with-jQuery
-University of Michigan - Interactivity with jQuery and JavaScript.
+# UC-Davis-Inter-with-jQuery
+University of California @Davis  - Interactivity with JavaScript & jQuery.
