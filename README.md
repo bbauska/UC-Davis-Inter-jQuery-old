@@ -2,10 +2,10 @@
 UC-Davis-Inter-with-jQuery : University of California @Davis  - Interactivity with JavaScript & jQuery
 ---
 
-Interactivity with JavaScript & jQuery
-taught by William Mead, Lecturer
+# Interactivity with JavaScript & jQuery
+###### taught by William Mead, Lecturer
  
-About this Course
+### About this Course
 This course is the third in our JavaScript for Beginners Specialization. The scripts will become more complex and introduce more complex jQuery plugins. You will have several challenges to practice your skills throughout the course. The course objectives include how to identify objects in JavaScript; create new objects and populate them with data; manipulate objects by adding, modifying and deleting data in objects; manipulate the DOM based on the data in objects; identify and articulate how multiple functions work together to create a more complex program; and identify processes for breaking larger programs into smaller, more manageable pieces.
 
 ## Syllabus
