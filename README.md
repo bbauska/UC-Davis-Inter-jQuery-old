@@ -7,10 +7,13 @@ taught by William Mead, Lecturer
  
 About this Course
 This course is the third in our JavaScript for Beginners Specialization. The scripts will become more complex and introduce more complex jQuery plugins. You will have several challenges to practice your skills throughout the course. The course objectives include how to identify objects in JavaScript; create new objects and populate them with data; manipulate objects by adding, modifying and deleting data in objects; manipulate the DOM based on the data in objects; identify and articulate how multiple functions work together to create a more complex program; and identify processes for breaking larger programs into smaller, more manageable pieces.
-Syllabus
-Week One: 
+
+## Syllabus
+
+### Week One: 
 Getting Started & jQuery Plugins and Capturing the Scroll Event
 In this module, you will be introduced to jQuery plugins and be able to present the advantages and challenges associated with using jQuery plugins. You will also be able to recognize common mistakes to avoid when using jQuery plugins. You will be introduced to the Flexslider jQuery plugin and be able to use it to build basic and more advanced image sliders.
+
 13 videos, 4 readings
 Reading: A Note from UC Davis
 1.	Video: Welcome to this Course!
@@ -30,9 +33,11 @@ Reading: Start Files: jQuery Plugins & Flexslider
 13.	Video: Styling the CTA
 Reading: PDF of Presentation
 Discussion Prompt: Module 1 Reflection
-Week Two: 
+
+### Week Two: 
 Combining Scripts and Skill Building Through Practice
 In this module, you will be able to use jQuery to create a smooth scroll effect for in-page navigation, as well as develop a script, using jQuery, that keeps track of scroll positions on the page. You will be able to compare and contrast the in-page smooth scroll script and the location tracking script created using jQuery with one created using plain JavaScript. You will be able to build a webpage using HTML and CSS that will combine some of the different scripts created in this course. You will be able to combine some of the different scripts and jQuery plugins explored in this course into the Scription webpage through a series of challenges.
+
 39 videos, 8 readings
 1.	Video: Module Introduction
 2.	Video: Introduction to Smooth Scroll with jQuery
@@ -82,9 +87,11 @@ Reading: Start Files: Scription Site
 39.	Video: Scription Site: Building Interactive Elements Challenges
 Reading: Scription Finished Version
 Reading: PDF of Presentations
-Week Three: 
+
+### Week Three: 
 Introduction to Objects & Data in JavaScript
 In this module, you will be introduced to the object literal and be able to demonstrate some of the ways to manipulate data inside objects. You will be able to develop good habits and processes that help with thinking about how to solve a programming problem, including breaking a problem down into smaller pieces.
+
 11 videos, 4 readings
 1.	Video: Module Introduction
 2.	Video: Introduction to Objects and Data in JS
@@ -125,6 +132,7 @@ Reading: PDF of Presentation
 Discussion Prompt: Module 4 Reflection
 15.	Video: Course Summary
 Discussion Prompt: Self-Reflection
+
 A Note from UC Davis
 Welcome to this course!
 We are delighted to be a part of your continuing education. This course will provide you with a variety of tools and learning opportunities, to include video lectures, readings, assessments, peer reviews, and an opportunity to contribute to the Coursera learning community in the discussion forums.
@@ -136,6 +144,7 @@ One of the great things about Coursera courses is that they are self-paced. The 
 Need additional help during your course session? Be sure to utilize the discussion forums and interact with your fellow peers. In this area, you can ask questions or search for similar issues that have already been posted in the forums. Learner support is also a great place to find answers, but specific course content questions can typically be found and answered in the discussion forums. This is also a great place to post your assignment if additional peer reviews are needed. Here is a link with more information on the discussion forums: Discussion Forums
 Because of the self-paced nature of Coursera courses, this is an excellent opportunity to show your commitment to your work and the work of your peers through academic integrity. Be sure to read the Coursera guidelines and the Coursera Honor Code here: Coursera Honor Code 
 We look forward to having you in this course. Happy learning!
+
 UC Davis Coursera Team
 Additional Links:
 •	Coursera’s Learner Support/Help Center:
@@ -151,15 +160,17 @@ https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines
 https://learner.coursera.help/hc/en-us/sections/201895903-Peer-reviewed-assignments
 
 •	Coursera’s Honor Code:
+
 https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code
-Week 1.01. Course Introduction (0:40)
+
+## Week 1.01. Course Introduction (0:40)
  
 Hello and welcome to our 3rd course in our four-core specialization on JavaScript. My name is Bill Mead and I'm back again to do more JavaScript with you. Hopefully you've completed our first two courses on JavaScript and you've learned a lot about the syntax of JavaScript and how to solve problems with JavaScript. It takes a lot of practice to get good at this stuff. 
 I'm back again to do more with you to introduce some new concepts, to do some new projects and to do some more sophisticated projects and give you even more practice. You get even better with JavaScript and JQuery. We're going to do a lot in this course. Let's break out our code editors and our web browsers and get started and learn even more about JavaScript.
  
 Hello and welcome to our first module in our third course on JavaScript. In this module, we're going to dive even deeper into jQuery, looking at some jQuery plugins. You've already made some sliders in a previous lesson. But in this lesson, we'll look at the flex slider plugin, which adds a lot of features, two sliders and comparing that to what you've done manually by creating your own sliders is really instructive and useful. Plus, you end up with a great tool for creating slider elements on web pages and that's really pretty fun.
-Week 1.02. Introduction to jQuery Plugins (3:49)
 
+## Week 1.02. Introduction to jQuery Plugins (3:49)
  
 Just as a quick recap, we've learned a lot of JavaScript so far. 
  
@@ -204,11 +215,12 @@ Also, plugins can be poorly written. They can have all bugs built into them beca
  
 Looking to the future
 Getting used to using other people's code now via jQuery plugins is a good preparation for the future. If you get deeper into JavaScript coding, we might use other repositories of shared code, such as NPM, which is the world's largest software registry. Then having experience with jQuery plug ins will really help you out. It's very common in the software development world to be working on modularized blocks of code and working with plugins can be seen as an introduction to that way of thinking and working where you're taking functionality and separating it out into a separate file and then plugging it in. You have access to that. It's a really great way of thinking and working with JavaScript in jQuery in general and getting used to that here will help prepare you for a future as a JavaScript developer.
+
 PDF of Presentation
 Here is a PDF of the presentation slides used in the videos for this section: jQuery Plugins.
 WEB1092_M01_jQuery Plugins.pdf
+
 PDF File
- 
 Start Files: jQuery Plugins & Flexslider
 Attached is a zip file of the things you need to begin this exercise. A zip file is defined as: a computer file whose contents include one or more files that are compressed for storage or transmission, often carrying the extension .ZIP. 
 WEB1092_FlexsliderBasic-Start
@@ -219,9 +231,6 @@ ZIP File
 
 Additional Resource:
 •	How to open a zip file for either Mac or PC
-
-
- 
 
 FlexSlider jQuery Slider plugin. Now that we've talked about jQuery plug-ins a bit, let's take a look at one that we can use to add a significant amount of interface options to our page. 
  
@@ -271,6 +280,7 @@ In the last video, we updated the markup for our fancy version of the slider, an
  
 Now we're down to styling the call to action so that it displays properly on the page, and I have a rule for the dot CTA anchor tags, there's a lot of stuff in here, but you'll see why as we move forward and do this, but let's go ahead and add this rule to our style sheet. If you come over here, you can see that I have it here, it's a long one so, I made it, so you don't have to tighten it, you can just copy and paste it. I'll explain more about exactly why all these decorations are in here, but for right now, let's just added in over here. A few things to look at, it's set to display flex for the call to action, and that's making this anchor tag display flex, so that this [inaudible] of the span in here can get positioned in the vertical center. By setting that to display flex and align-item center, that will allow me to put that text in the vertical center of these called actions, these called actions are going to be round buttons, and I want the text to be in the vertical and horizontal center, so that allows us to do that. I'm just setting the height and the width to 25vw, which is viewport width, 25 percent of the viewport width, so these buttons will scale up and down with the size of the window, and you'll see that this is actually too large for the desktop, we will put in a rule down in the media queries to fix that in a minute. I'm also setting position absolute on these, because they're going to be absolute positioned from the right, and then bottom 100 percent means they're going to be positioned initially off the top of the screen. I'm setting bottom 100 percent that's going to push the bottoms of these up to 100 percent, the height of that parent element, and that's going to put them all the way off the top of the screen. When we come to the slide, they're going to animate down into the screen, you'll see in a minute as we finish this up. I'm setting a background color, border radius 50 percent is what makes them round, I'm putting a border on them with the color, and then text-align center, puts the text in the horizontal center, some padding, text-decoration, none gets rid of the underlying setting, the font family, the font size, 4vw is four percent of the viewport width, so again, the font it's going to resize based on how wide the screen is, and then also the color for the text. That's a lot of stuff.
 We're going to do one more rule in here for light, and I'm setting a color in here, color, and I think I set it to, where did I set it to, ededed. The reason for that, it's a light gray, one of the slides is dark, so over here, I have a class of light on slide 4. You may have also wondered why on one of the slides I went up here, I went kitten 2 to kitten 6, and then four, and then five. Kitten 3, the colors on that one just don't work well with the colors for the text, so I swapped it to one  of the other ones. But for number 4 here, I wanted to make this text light, so, I put a different color in there and a different class for that one, that's all we need there for that, so that's really good and should make sense in our work. We need a couple more rules that are going to resize these elements for desktop and for mobile, so we need to add these rules into the media queries at the bottom of the style sheet, and we're just setting height, width, and font size. For the tablet-sized versions of the site, which is, screens that are 600 pixels and wider, I'm just going to set dot CTA with 20vw instead of 25, and height, same height, height 20vw. Because up here, it's setting it to 25, and that's going to get too large as my screen gets larger, so I'm going to just shrink it down just a little bit there, and then I'm setting the font size to a little bit smaller, I think is not what it was, yes, 3vw instead of 4vw, it's 3vw, and so bringing the font size down a little bit, 3vw. Then, when we get to the full-screen size for desktop, I need this again, and I'm just going to set it to a maximum size, because at this point the screen is going to be flexible anymore, so I want these to be set to a specific size, 150px, so it's not going to be flexible anymore, because if, this size or wider, it's always going to be this size, 150px, [inaudible] the [inaudible] , it's just 24 pixels. I'll set this 24 pixels. Great, circuits all of the styling in place for these, and if we go back and review the page, you'll see that the color [inaudible] isn't on the screen at all, it's going to be up here, I actually noticed down here at bottom 100 percent, so it is showing up. But this is the way they're going to look in end here, is round like this. If you go to number 4, slide 4, that one should be picking up the light class, and I don't know why it's not now. You know what, I think I put it on the wrong one. Let's fix that. Over here. Cut it from there and stick it on this one. That seems like it should be the right one. It's so cute, it's that one. I think they're just ededed, it should be right. It may need to be refreshed properly, but that's okay. Great, so you got that all in place. The last thing we need to do is get this animation to work.
+
 PDF of Presentation
 Here is a PDF of the presentation slides used in the videos for this section: jQuery Plugins and FlexSlider.
 
