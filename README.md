@@ -1,6 +1,6 @@
-# UC-Davis-Inter-with-jQuery
-University of California @Davis  - Interactivity with JavaScript & jQuery.
-
+---
+UC-Davis-Inter-with-jQuery : University of California @Davis  - Interactivity with JavaScript & jQuery.
+---
 
 Interactivity with JavaScript & jQuery
 taught by William Mead, Lecturer
