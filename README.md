@@ -1,18 +1,15 @@
-# Interactivity with JavaScript & jQuery
-###### taught by William Mead, Lecturer
-
 ---
 UC-Davis-Inter-with-jQuery : University of California @Davis  - Interactivity with JavaScript & jQuery
----
----
 title: Interactivity with JavaScript & jQuery
 slug: JavaScript/Java/Learn/Interactivity_with_JavaScript/The_head_metadata_in_HTML
 page-type: JavaScript & jQuery
 ---
 
+# Interactivity with JavaScript & jQuery
+###### taught by William Mead, Lecturer
+
 The &lt;head&gt; of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such as the page <b>title</b>, links to glossary("CSS")
 (if you choose to style your HTML content with CSS), links to custom favicons, and other metadata (data about the HTML, such as the author, and important keywords that describe the document). Web browsers use information contained in the {&lt;head&gt;  to render the HTML document correctly. In this article we'll cover all of the above and more, in order to give you a good basis for working with markup.
-
 
 ### About this Course
 This course is the third in our JavaScript for Beginners Specialization. The scripts will become more complex and introduce more complex jQuery plugins. You will have several challenges to practice your skills throughout the course. The course objectives include how to identify objects in JavaScript; create new objects and populate them with data; manipulate objects by adding, modifying and deleting data in objects; manipulate the DOM based on the data in objects; identify and articulate how multiple functions work together to create a more complex program; and identify processes for breaking larger programs into smaller, more manageable pieces.
