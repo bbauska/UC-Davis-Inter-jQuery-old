@@ -1,10 +1,11 @@
 ---
-title: Interactivity with JavaScript &amp; jQuery
+title: Interactivity with JavaScript & jQuery
 slug: JavaScript/Java/Learn/Interactivity_with_JavaScript/The_head_metadata_in_HTML
-page-type: JavaScript &amp; jQuery
+page-type: JavaScript & jQuery
 ---
 
-The &lt;head&gt; of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such as the page {{htmlelement("title")}}, links to {{glossary("CSS")}} (if you choose to style your HTML content with CSS), links to custom favicons, and other metadata (data about the HTML, such as the author, and important keywords that describe the document). Web browsers use information contained in the {{glossary("Head", "head")}} to render the HTML document correctly. In this article we'll cover all of the above and more, in order to give you a good basis for working with markup.
+The &lt;head&gt; of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such as the page <b>title</b>, links to glossary("CSS")
+(if you choose to style your HTML content with CSS), links to custom favicons, and other metadata (data about the HTML, such as the author, and important keywords that describe the document). Web browsers use information contained in the {&lt;head&gt;  to render the HTML document correctly. In this article we'll cover all of the above and more, in order to give you a good basis for working with markup.
 ---
 UC-Davis-Inter-with-jQuery : University of California @Davis  - Interactivity with JavaScript & jQuery
 ---
