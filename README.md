@@ -31,15 +31,15 @@ In this module, you will be introduced to jQuery plugins and be able to present 
 You will also be able to recognize common mistakes to avoid when using jQuery plugins. You will be introduced to the Flexslider jQuery plugin and 
 be able to use it to build basic and more advanced image sliders.
 
-13 videos, 4 readings
-Reading: A Note from UC Davis
+<h5>13 videos, 4 readings</h5>
+  * Reading: A Note from UC Davis<br>
 1.	Video: Welcome to this Course!
 2.	Video: Module Introduction
 3.	Video: Introduction to jQuery Plugins
 4.	Video: Using Plugins and Essential Steps
 5.	Video: Gotchas and Rookie Mistakes
-Reading: PDF of Presentation<br>
-Reading: Start Files: jQuery Plugins & Flexslider<br>
+  * Reading: PDF of Presentation<br>
+  * Reading: Start Files: jQuery Plugins & Flexslider<br>
 6.	Video: FlexSlider: A jQuery Plugin
 7.	Video: About the Minified Version
 8.	Video: Adding Markup & Hooking Up the Slider
@@ -48,8 +48,8 @@ Reading: Start Files: jQuery Plugins & Flexslider<br>
 11.	Video: Advanced FlexSlider
 12.	Video: Additional Styling
 13.	Video: Styling the CTA
-Reading: PDF of Presentation<br>
-Discussion Prompt: Module 1 Reflection<br>
+  * Reading: PDF of Presentation<br>
+  - Discussion Prompt: Module 1 Reflection<br>
 
 <h3>Week Two:</h3>
 <h4>Combining Scripts and Skill Building Through Practice</h4>
@@ -60,7 +60,8 @@ location tracking script created using jQuery with one created using plain JavaS
 CSS that will combine some of the different scripts created in this course. You will be able to combine some of the different scripts and 
 jQuery plugins explored in this course into the Scription webpage through a series of challenges.
 
-39 videos, 8 readings
+<h5>39 videos, 8 readings</h5>
+
 1.	Video: Module Introduction
 2.	Video: Introduction to Smooth Scroll with jQuery<br>
 Reading: Start Files: Smooth Scroll with jQuery<br>
