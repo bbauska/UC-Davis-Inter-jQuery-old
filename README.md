@@ -162,8 +162,10 @@ Discussion Prompt: Module 4 Reflection<br>
 15.	Video: Course Summary<br>
 Discussion Prompt: Self-Reflection<br>
 
-A Note from UC Davis
+<h3>A Note from UC Davis</h3>
+
 Welcome to this course!
+
 We are delighted to be a part of your continuing education. This course will provide you with a variety of tools and learning opportunities, to include 
 video lectures, readings, assessments, peer reviews, and an opportunity to contribute to the Coursera learning community in the discussion forums.
 
@@ -175,7 +177,8 @@ When navigating the course, you can find available course resources under each o
 download the lecture video, view transcripts, PDFs of the lecture slides, and find additional readings or files. 
 
 If you run into any issues during this course, learner support is available to all Coursera students. The link for Coursera’s Learner support is 
-included below. The Help Center/Learner Support includes topics such as account setup, payments, enrollment questions, and troubleshooting common problems.
+included below. The <a href="https://learner.coursera.help/hc/en-us">Help Center/Learner Support</a> includes topics such as account setup, 
+payments, enrollment questions, and troubleshooting common problems.
 
 If you find any content issues, be sure to let the course staff know by flagging the lecture, assignment, reading, or quiz and this will inform us 
 of where these issues occur. Here is the link for more information on how to Flag an Issue - it is also listed below. 
