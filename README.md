@@ -8,17 +8,26 @@ page-type: JavaScript & jQuery
 # Interactivity with JavaScript & jQuery
 ###### taught by William Mead, Lecturer
 
-The &lt;head&gt; of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such as the page <b>title</b>, links to glossary("CSS")
-(if you choose to style your HTML content with CSS), links to custom favicons, and other metadata (data about the HTML, such as the author, and important keywords that describe the document). Web browsers use information contained in the {&lt;head&gt;  to render the HTML document correctly. In this article we'll cover all of the above and more, in order to give you a good basis for working with markup.
+The &lt;head&gt; of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such 
+as the page <b>title</b>, links to glossary("CSS")
+(if you choose to style your HTML content with CSS), links to custom favicons, and other metadata (data about the HTML, such as the author, and 
+important keywords that describe the document). Web browsers use information contained in the {&lt;head&gt;  to render the HTML document correctly. 
+In this article we'll cover all of the above and more, in order to give you a good basis for working with markup.
 
 ### About this Course
-This course is the third in our JavaScript for Beginners Specialization. The scripts will become more complex and introduce more complex jQuery plugins. You will have several challenges to practice your skills throughout the course. The course objectives include how to identify objects in JavaScript; create new objects and populate them with data; manipulate objects by adding, modifying and deleting data in objects; manipulate the DOM based on the data in objects; identify and articulate how multiple functions work together to create a more complex program; and identify processes for breaking larger programs into smaller, more manageable pieces.
+This course is the third in our JavaScript for Beginners Specialization. The scripts will become more complex and introduce more complex jQuery 
+plugins. You will have several challenges to practice your skills throughout the course. The course objectives include how to identify objects 
+in JavaScript; create new objects and populate them with data; manipulate objects by adding, modifying and deleting data in objects; manipulate 
+the DOM based on the data in objects; identify and articulate how multiple functions work together to create a more complex program; and identify 
+processes for breaking larger programs into smaller, more manageable pieces.
 
 ## Syllabus
 
 ### Week One: 
 Getting Started & jQuery Plugins and Capturing the Scroll Event
-In this module, you will be introduced to jQuery plugins and be able to present the advantages and challenges associated with using jQuery plugins. You will also be able to recognize common mistakes to avoid when using jQuery plugins. You will be introduced to the Flexslider jQuery plugin and be able to use it to build basic and more advanced image sliders.
+In this module, you will be introduced to jQuery plugins and be able to present the advantages and challenges associated with using jQuery plugins. 
+You will also be able to recognize common mistakes to avoid when using jQuery plugins. You will be introduced to the Flexslider jQuery plugin and 
+be able to use it to build basic and more advanced image sliders.
 
 13 videos, 4 readings
 Reading: A Note from UC Davis
@@ -27,8 +36,8 @@ Reading: A Note from UC Davis
 3.	Video: Introduction to jQuery Plugins
 4.	Video: Using Plugins and Essential Steps
 5.	Video: Gotchas and Rookie Mistakes
-Reading: PDF of Presentation
-Reading: Start Files: jQuery Plugins & Flexslider
+Reading: PDF of Presentation<br>
+Reading: Start Files: jQuery Plugins & Flexslider<br>
 6.	Video: FlexSlider: A jQuery Plugin
 7.	Video: About the Minified Version
 8.	Video: Adding Markup & Hooking Up the Slider
@@ -37,22 +46,26 @@ Reading: Start Files: jQuery Plugins & Flexslider
 11.	Video: Advanced FlexSlider
 12.	Video: Additional Styling
 13.	Video: Styling the CTA
-Reading: PDF of Presentation
-Discussion Prompt: Module 1 Reflection
+Reading: PDF of Presentation<br>
+Discussion Prompt: Module 1 Reflection<br>
 
 ### Week Two: 
 Combining Scripts and Skill Building Through Practice
-In this module, you will be able to use jQuery to create a smooth scroll effect for in-page navigation, as well as develop a script, using jQuery, that keeps track of scroll positions on the page. You will be able to compare and contrast the in-page smooth scroll script and the location tracking script created using jQuery with one created using plain JavaScript. You will be able to build a webpage using HTML and CSS that will combine some of the different scripts created in this course. You will be able to combine some of the different scripts and jQuery plugins explored in this course into the Scription webpage through a series of challenges.
+In this module, you will be able to use jQuery to create a smooth scroll effect for in-page navigation, as well as develop a script, using 
+jQuery, that keeps track of scroll positions on the page. You will be able to compare and contrast the in-page smooth scroll script and the 
+location tracking script created using jQuery with one created using plain JavaScript. You will be able to build a webpage using HTML and 
+CSS that will combine some of the different scripts created in this course. You will be able to combine some of the different scripts and 
+jQuery plugins explored in this course into the Scription webpage through a series of challenges.
 
 39 videos, 8 readings
 1.	Video: Module Introduction
-2.	Video: Introduction to Smooth Scroll with jQuery
-Reading: Start Files: Smooth Scroll with jQuery
+2.	Video: Introduction to Smooth Scroll with jQuery<br>
+Reading: Start Files: Smooth Scroll with jQuery<br>
 3.	Video: Creating a Click Handler
 4.	Video: Adding the Animation
 5.	Video: Add Some Easing and a Callback Function
-6.	Video: Highlighting Elements
-Reading: PDF of Presentation
+6.	Video: Highlighting Elements<br>
+Reading: PDF of Presentation<br>
 7.	Video: Introduction to Page Location Tracking
 8.	Video: The Crux of the Problem
 9.	Video: Strategy
@@ -63,10 +76,10 @@ Reading: PDF of Presentation
 14.	Video: Resizing Your Windows
 15.	Video: Resetting the Counter
 16.	Video: resetPagePosition Function
-17.	Video: Reviewing the Whole Script
-Reading: PDF of Presentation
-18.	Video: Introduction to Scroll Effects with JS
-Reading: Start Files: Smooth Scroll with JavaScript
+17.	Video: Reviewing the Whole Script<br>
+Reading: PDF of Presentation<br>
+18.	Video: Introduction to Scroll Effects with JS<br>
+Reading: Start Files: Smooth Scroll with JavaScript<br>
 19.	Video: Getting the Target - Part 1
 20.	Video: Getting the Target - Part 2
 21.	Video: Smooth Scroll Polyfill
@@ -76,11 +89,11 @@ Reading: Start Files: Smooth Scroll with JavaScript
 25.	Video: The Magic Conditionals
 26.	Video: Changing the Next Link
 27.	Video: Resizing Function
-28.	Video: Finalizing the Script
-Reading: PDF of Presentation
-Discussion Prompt: Module 2 Reflection
-29.	Video: Scription Site Introduction
-Reading: Start Files: Scription Site
+28.	Video: Finalizing the Script<br>
+Reading: PDF of Presentation<br>
+Discussion Prompt: Module 2 Reflection<br>
+29.	Video: Scription Site Introduction<br>
+Reading: Start Files: Scription Site<br>
 30.	Video: Header HTML
 31.	Video: Pricing HTML
 32.	Video: Beginning Styling
@@ -90,38 +103,42 @@ Reading: Start Files: Scription Site
 36.	Video: Tablet Styles
 37.	Video: Media Query for 1020 Pixels Wide
 38.	Video: Media Query for 1200 Pixels Wide
-39.	Video: Scription Site: Building Interactive Elements Challenges
-Reading: Scription Finished Version
-Reading: PDF of Presentations
+39.	Video: Scription Site: Building Interactive Elements Challenges<br>
+Reading: Scription Finished Version<br>
+Reading: PDF of Presentations<br>
 
 ### Week Three: 
-Introduction to Objects & Data in JavaScript
-In this module, you will be introduced to the object literal and be able to demonstrate some of the ways to manipulate data inside objects. You will be able to develop good habits and processes that help with thinking about how to solve a programming problem, including breaking a problem down into smaller pieces.
+<h4>Introduction to Objects & Data in JavaScript</h4>
+In this module, you will be introduced to the object literal and be able to demonstrate some of the ways to manipulate data inside objects. 
+You will be able to develop good habits and processes that help with thinking about how to solve a programming problem, including breaking 
+a problem down into smaller pieces.
 
 11 videos, 4 readings
 1.	Video: Module Introduction
-2.	Video: Introduction to Objects and Data in JS
-Reading: Start Files: Working with Objects in JavaScript
+2.	Video: Introduction to Objects and Data in JS<br>
+Reading: Start Files: Working with Objects in JavaScript<br>
 3.	Video: Objects Can Contain Arrays and Other Objects
 4.	Video: Functions Inside Objects Equals Methods
 5.	Video: Putting Objects and Functions Together
 6.	Video: Data Formats - XML
-7.	Video: Example File
-Reading: PDF of Presentations
-8.	Video: Introduction to Pig Dice Game
-Reading: Pig Dice Game Diagrams
+7.	Video: Example File<br>
+Reading: PDF of Presentations<br>
+8.	Video: Introduction to Pig Dice Game<br>
+Reading: Pig Dice Game Diagrams<br>
 9.	Video: Play the Game of Pig
 10.	Video: Version One
-11.	Video: Other Versions
-Reading: PDF of Presentations
-Discussion Prompt: Module 3 Reflection
-Week Four: 
-Building a Simple Game in JavaScript
-By building this game within this module, you will be able to practice the JavaScript you have already learned while constructing a script with more functions and complexity. You will be able to then extend the script in many creative ways.
+11.	Video: Other Versions<br>
+Reading: PDF of Presentations<br>
+Discussion Prompt: Module 3 Reflection<br>
+
+### Week Four: 
+<h4>Building a Simple Game in JavaScript</h4>
+By building this game within this module, you will be able to practice the JavaScript you have already learned while constructing a script with 
+more functions and complexity. You will be able to then extend the script in many creative ways.
 15 videos, 2 readings
 1.	Video: Module Introduction
-2.	Video: Introduction to the Game of Pig
-Reading: Start Files: Game of Pig
+2.	Video: Introduction to the Game of Pig<br>
+Reading: Start Files: Game of Pig<br>
 3.	Video: Start the Game
 4.	Video: Set Up the Turn
 5.	Video: Throwing the Dice
@@ -133,22 +150,34 @@ Reading: Start Files: Game of Pig
 11.	Video: Checking for a Win
 12.	Video: Show the Current Score
 13.	Video: Final Clean-Up
-14.	Video: Extending the Game
-Reading: PDF of Presentation
-Discussion Prompt: Module 4 Reflection
-15.	Video: Course Summary
-Discussion Prompt: Self-Reflection
+14.	Video: Extending the Game<br>
+Reading: PDF of Presentation<br>
+Discussion Prompt: Module 4 Reflection<br>
+15.	Video: Course Summary<br>
+Discussion Prompt: Self-Reflection<br>
 
 A Note from UC Davis
 Welcome to this course!
-We are delighted to be a part of your continuing education. This course will provide you with a variety of tools and learning opportunities, to include video lectures, readings, assessments, peer reviews, and an opportunity to contribute to the Coursera learning community in the discussion forums.
-In each of the lesson sections, you’ll find learning objectives, lecture videos, readings, activities, and an opportunity to test your knowledge in quiz format. In some of the module sections you’ll also work on assignments and grade the work of your peers. A peer-review assignment, is one where you and your fellow learners have an opportunity to review and grade each other’s work. We’ll dive more into peer reviews later on in this course.
-When navigating the course, you can find available course resources under each of the lecture videos in a section labeled “Downloads” – here you can download the lecture video, view transcripts, PDFs of the lecture slides, and find additional readings or files. 
-If you run into any issues during this course, learner support is available to all Coursera students. The link for Coursera’s Learner support is included below. The Help Center/Learner Support includes topics such as account setup, payments, enrollment questions, and troubleshooting common problems. 
-If you find any content issues, be sure to let the course staff know by flagging the lecture, assignment, reading, or quiz and this will inform us of where these issues occur. Here is the link for more information on how to Flag an Issue - it is also listed below. 
-One of the great things about Coursera courses is that they are self-paced. The course dates are based on the average time it takes to complete a course. However, if you need additional time to complete a course you can reset your deadlines with no penalties. More information on resetting deadlines can be found here: Assignment Deadlines
-Need additional help during your course session? Be sure to utilize the discussion forums and interact with your fellow peers. In this area, you can ask questions or search for similar issues that have already been posted in the forums. Learner support is also a great place to find answers, but specific course content questions can typically be found and answered in the discussion forums. This is also a great place to post your assignment if additional peer reviews are needed. Here is a link with more information on the discussion forums: Discussion Forums
-Because of the self-paced nature of Coursera courses, this is an excellent opportunity to show your commitment to your work and the work of your peers through academic integrity. Be sure to read the Coursera guidelines and the Coursera Honor Code here: Coursera Honor Code 
+We are delighted to be a part of your continuing education. This course will provide you with a variety of tools and learning opportunities, to include 
+video lectures, readings, assessments, peer reviews, and an opportunity to contribute to the Coursera learning community in the discussion forums.
+In each of the lesson sections, you’ll find learning objectives, lecture videos, readings, activities, and an opportunity to test your knowledge in 
+quiz format. In some of the module sections you’ll also work on assignments and grade the work of your peers. A peer-review assignment, is one where 
+you and your fellow learners have an opportunity to review and grade each other’s work. We’ll dive more into peer reviews later on in this course.
+When navigating the course, you can find available course resources under each of the lecture videos in a section labeled “Downloads” – here you can 
+download the lecture video, view transcripts, PDFs of the lecture slides, and find additional readings or files. 
+If you run into any issues during this course, learner support is available to all Coursera students. The link for Coursera’s Learner support is 
+included below. The Help Center/Learner Support includes topics such as account setup, payments, enrollment questions, and troubleshooting common problems. 
+If you find any content issues, be sure to let the course staff know by flagging the lecture, assignment, reading, or quiz and this will inform us 
+of where these issues occur. Here is the link for more information on how to Flag an Issue - it is also listed below. 
+One of the great things about Coursera courses is that they are self-paced. The course dates are based on the average time it takes to complete a 
+course. However, if you need additional time to complete a course you can reset your deadlines with no penalties. More information on resetting 
+deadlines can be found here: Assignment Deadlines
+Need additional help during your course session? Be sure to utilize the discussion forums and interact with your fellow peers. In this area, you 
+can ask questions or search for similar issues that have already been posted in the forums. Learner support is also a great place to find answers, 
+but specific course content questions can typically be found and answered in the discussion forums. This is also a great place to post your assignment 
+if additional peer reviews are needed. Here is a link with more information on the discussion forums: Discussion Forums
+Because of the self-paced nature of Coursera courses, this is an excellent opportunity to show your commitment to your work and the work of your peers 
+through academic integrity. Be sure to read the Coursera guidelines and the Coursera Honor Code here: Coursera Honor Code 
 We look forward to having you in this course. Happy learning!
 
 UC Davis Coursera Team
@@ -171,56 +200,145 @@ https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code
 
 ## Week 1.01. Course Introduction (0:40)
  
-Hello and welcome to our 3rd course in our four-core specialization on JavaScript. My name is Bill Mead and I'm back again to do more JavaScript with you. Hopefully you've completed our first two courses on JavaScript and you've learned a lot about the syntax of JavaScript and how to solve problems with JavaScript. It takes a lot of practice to get good at this stuff. 
-I'm back again to do more with you to introduce some new concepts, to do some new projects and to do some more sophisticated projects and give you even more practice. You get even better with JavaScript and JQuery. We're going to do a lot in this course. Let's break out our code editors and our web browsers and get started and learn even more about JavaScript.
+Hello and welcome to our 3rd course in our four-core specialization on JavaScript. My name is Bill Mead and I'm back again to do more JavaScript with you. 
+Hopefully you've completed our first two courses on JavaScript and you've learned a lot about the syntax of JavaScript and how to solve problems with 
+JavaScript. It takes a lot of practice to get good at this stuff. 
+I'm back again to do more with you to introduce some new concepts, to do some new projects and to do some more sophisticated projects and give you even 
+more practice. You get even better with JavaScript and JQuery. We're going to do a lot in this course. Let's break out our code editors and our web 
+browsers and get started and learn even more about JavaScript.
  
-Hello and welcome to our first module in our third course on JavaScript. In this module, we're going to dive even deeper into jQuery, looking at some jQuery plugins. You've already made some sliders in a previous lesson. But in this lesson, we'll look at the flex slider plugin, which adds a lot of features, two sliders and comparing that to what you've done manually by creating your own sliders is really instructive and useful. Plus, you end up with a great tool for creating slider elements on web pages and that's really pretty fun.
+Hello and welcome to our first module in our third course on JavaScript. In this module, we're going to dive even deeper into jQuery, looking at some 
+jQuery plugins. You've already made some sliders in a previous lesson. But in this lesson, we'll look at the flex slider plugin, which adds a lot of 
+features, two sliders and comparing that to what you've done manually by creating your own sliders is really instructive and useful. Plus, you end up 
+with a great tool for creating slider elements on web pages and that's really pretty fun.
 
 ## Week 1.02. Introduction to jQuery Plugins (3:49)
  
 Just as a quick recap, we've learned a lot of JavaScript so far. 
  
-We started with the JavaScript basics, which included working with variables, flow control structures like if statements and else statements and loops, and that stuff. We created reusable functions that you can use in multiple projects or you can use multiple times within the same project. We've manipulated the DOM and handled events such as when somebody clicks on something or hovers a mouse over something, we can capture those events and then do things with them. With these basics, you can do quite a lot, but it might take you a long time to write the scripts that you want to do for your web page. 
+We started with the JavaScript basics, which included working with variables, flow control structures like if statements and else statements and loops, 
+and that stuff. We created reusable functions that you can use in multiple projects or you can use multiple times within the same project. We've manipulated 
+the DOM and handled events such as when somebody clicks on something or hovers a mouse over something, we can capture those events and then do things with 
+them. With these basics, you can do quite a lot, but it might take you a long time to write the scripts that you want to do for your web page. 
  
-Then we had jQuery and your world became a little bit larger. With jQuery, we've learned that there are a lot of helper functions built into this library that make writing scripts shorter and a little bit more compact, and a little bit easier. That helps and that makes things a little bit easier and a little bit better for all of us. 
+Then we had jQuery and your world became a little bit larger. With jQuery, we've learned that there are a lot of helper functions built into this library 
+that make writing scripts shorter and a little bit more compact, and a little bit easier. That helps and that makes things a little bit easier and a little 
+bit better for all of us. 
  
-Now we need to introduce plugins. We've already used the easing plugin, which is a very simple plugin that adds additional function to jQuery, so that you can use different types of easing, which is different speeds and ways in which things can animate on your screen, and by plugging in that particular plugin, you get access to all of those different features that aren't built into jQuery. 
-jQuery has this plugin architecture that's very powerful, that allows developers to build extensions to jQuery. They give it a lot of additional functionality. There are tons of jQuery plugins available, thousands of them, and I recommend looking around the web and seeing what other ones you can find. We will look at one or two here in this course, but there are just thousands of them out there and they're really worth exploring and seeing what's out there. That way your world becomes a lot bigger because now you don't only have to just write all your scripts yourself. You can look for scripts that other people have written and see if you can modify them and use them in your own projects through the use of a plugin, and that's really very powerful and really great. 
+Now we need to introduce plugins. We've already used the easing plugin, which is a very simple plugin that adds additional function to jQuery, so that you 
+can use different types of easing, which is different speeds and ways in which things can animate on your screen, and by plugging in that particular 
+plugin, you get access to all of those different features that aren't built into jQuery. 
+jQuery has this plugin architecture that's very powerful, that allows developers to build extensions to jQuery. They give it a lot of additional functionality. 
+There are tons of jQuery plugins available, thousands of them, and I recommend looking around the web and seeing what other ones you can find. We will look 
+at one or two here in this course, but there are just thousands of them out there and they're really worth exploring and seeing what's out there. That way 
+your world becomes a lot bigger because now you don't only have to just write all your scripts yourself. You can look for scripts that other people have 
+written and see if you can modify them and use them in your own projects through the use of a plugin, and that's really very powerful and really great. 
  
-Again, plugins add additional functionality to jQuery, and we've already seen this with the easing plugin. But some plugins can have very complex functionality without us having to write a whole bunch of code. We have access to a whole bunch of additional functions and we'll see what that looks like. You can create whole interfaces in a jQuery plugin, and then by providing that plugin, other people can have access to those interfaces. For example, we did the project where we made the tabbed interface. What if there was a jQuery plugin that made hooking up a tabbed interface super easy? There are plugins for those things and they might come with a lot of features and functionality. What if you want the tabs to run down the side of the tabbed interface rather than across the tab? You could do that thing.
-
+Again, plugins add additional functionality to jQuery, and we've already seen this with the easing plugin. But some plugins can have very complex 
+functionality without us having to write a whole bunch of code. We have access to a whole bunch of additional functions and we'll see what that 
+looks like. You can create whole interfaces in a jQuery plugin, and then by providing that plugin, other people can have access to those interfaces. 
+For example, we did the project where we made the tabbed interface. What if there was a jQuery plugin that made hooking up a tabbed interface super 
+easy? There are plugins for those things and they might come with a lot of features and functionality. What if you want the tabs to run down the 
+side of the tabbed interface rather than across the tab? You could do that thing.
  
-Using plugins and essential steps, adding plugins to your project, configuring them, and learning how to use them still takes some work and effort. But not nearly as much work and effort as it takes to write the whole script yourself. 
+Using plugins and essential steps, adding plugins to your project, configuring them, and learning how to use them still takes some work and effort. 
+But not nearly as much work and effort as it takes to write the whole script yourself. 
 Many of the larger, more sophisticated plugins require five steps to get them to work. 
  
-Step 1 is, you have to use the markup indicated by the plugin documentation. Often, you'll have to use divs or our articles or other elements with particular classes that the plugin needs in order for it to actually work. Classes or IDs or other, structures that the plugin needs for to work.
-Step 2, you need to make sure jQuery is linked. The jQuery libraries linked because if you're using a jQuery plugin, then you need to have jQuery decide if you're going to put your scripts at the top of the page or at the bottom of the page. Sometimes you can put them whichever place you want, sometimes the plugin directions will tell you to put them in one place or the other. But frequently you can make your own decision on this and put it where you want it to go and architect your file the way you want it to be structured. 
-Step 3, is to link the plugin file and when you download a plugin, frequently it will come with a compressed version and an uncompressed version. The uncompressed version is there for you to look at so you could see how the plugin actually functions, it's readable JavaScript, and you can do that kind of thing. But when you're ready to put it into your project and for your production ready project, you want to use the compressed version because it will be smaller, and it'll download faster. So if they provide a compressed one, then you should use that, if they don't provide a compressed one, you can compress it yourself. 
-Step 4, link to the plug in CSS file, some of the fancier plugins will come with styling that will style the elements inside of the plugin. And, this is usually included so that everything looks and works the way it's supposed to work within the interface for that plugin, so you want to make sure you get that CSS file linked onto your page. 
-Then Step 5, is you need to initialize the setup of the plugin in your own script tag, or on your own linked JavaScript file. Often, you can set additional options so that when the function is initialized, and so that you can pass in whichever options will get the plugin to display the way you want it to display, but you want to make sure that this script loads last. So, the order of things are that you will have the jQuery plugin, then you'll have jQuery, then the jQuery plugin, and then you will initialize the plug in on your own script. And then also make sure that if there's any CSS files, those are included as well. 
+Step 1 is, you have to use the markup indicated by the plugin documentation. Often, you'll have to use divs or our articles or other elements with 
+particular classes that the plugin needs in order for it to actually work. Classes or IDs or other, structures that the plugin needs for to work.
+Step 2, you need to make sure jQuery is linked. The jQuery libraries linked because if you're using a jQuery plugin, then you need to have jQuery 
+decide if you're going to put your scripts at the top of the page or at the bottom of the page. Sometimes you can put them whichever place you want, 
+sometimes the plugin directions will tell you to put them in one place or the other. But frequently you can make your own decision on this and put 
+it where you want it to go and architect your file the way you want it to be structured. 
+Step 3, is to link the plugin file and when you download a plugin, frequently it will come with a compressed version and an uncompressed version. 
+The uncompressed version is there for you to look at so you could see how the plugin actually functions, it's readable JavaScript, and you can do 
+that kind of thing. But when you're ready to put it into your project and for your production ready project, you want to use the compressed version 
+because it will be smaller, and it'll download faster. So if they provide a compressed one, then you should use that, if they don't provide a 
+compressed one, you can compress it yourself. 
+Step 4, link to the plug in CSS file, some of the fancier plugins will come with styling that will style the elements inside of the plugin. And, 
+this is usually included so that everything looks and works the way it's supposed to work within the interface for that plugin, so you want to 
+make sure you get that CSS file linked onto your page. 
+Then Step 5, is you need to initialize the setup of the plugin in your own script tag, or on your own linked JavaScript file. Often, you can set 
+additional options so that when the function is initialized, and so that you can pass in whichever options will get the plugin to display the way 
+you want it to display, but you want to make sure that this script loads last. So, the order of things are that you will have the jQuery plugin, 
+then you'll have jQuery, then the jQuery plugin, and then you will initialize the plug in on your own script. And then also make sure that if 
+there's any CSS files, those are included as well. 
  
 Documentation Mish-Mash
-Suppose you find a jQuery plugin you want to try on your website, how do you go about adding it to your page? How do you know what to do? Because these plugins are all made by different developers or groups of developers, there's no real standard in terms of the documentation. So, this is where having a solid foundation in JavaScript really helps, because you need to look at the documentation they provide, and be able to tease it out and go okay, I understand what they're asking me to do here. 
-On this page they're telling me to install the plugin like this and then add these configuration options, and so on and so forth. And unless you have some experience with JavaScript, it's going to look like a bunch of messy code and it's not going to make a lot of sense. So that's why it's really helpful to have a solid JavaScript foundation, before trying to mess around with this stuff. But now that you do, and you'll see once you work with a few plugins that many of them work pretty much the same way. The documentation may look a little bit different; the directions may be written a little bit different, but it's the same basic steps each time.
+Suppose you find a jQuery plugin you want to try on your website, how do you go about adding it to your page? How do you know what to do? 
+Because these plugins are all made by different developers or groups of developers, there's no real standard in terms of the documentation. 
+So, this is where having a solid foundation in JavaScript really helps, because you need to look at the documentation they provide, and be 
+able to tease it out and go okay, I understand what they're asking me to do here. 
+On this page they're telling me to install the plugin like this and then add these configuration options, and so on and so forth. And unless 
+you have some experience with JavaScript, it's going to look like a bunch of messy code and it's not going to make a lot of sense. So that's 
+why it's really helpful to have a solid JavaScript foundation, before trying to mess around with this stuff. But now that you do, and you'll 
+see once you work with a few plugins that many of them work pretty much the same way. The documentation may look a little bit different; the 
+directions may be written a little bit different, but it's the same basic steps each time.
 
  
 Gotchas and rookie mistakes. 
  
-Number 1 on this list is the biggest one, I see this all the time, especially with students who are new to working with JavaScript in jQuery, and that is ending up with multiple copies of the jQuery library linked to your page. Only load the jQuery library once. You may have multiple plugins, but you should only load one copy of the jQuery library, which is used by all the plugins. What happens is you find a plugin that add some interesting functionality web page. You follow the directions and load the jQuery library and do all the directions to make that plugin work. Then you find another plugin that does something else that you want to use. You follow the directions and that page and it tells you to load the jQuery library and to load the plugins. You follow those directions and then in the end, you end up with the jQuery library loaded twice. 
-Frequently, when you download these plugins, they'll include a copy of the jQuery library. You'll follow the directions, you'll link up one, then you'll think of another. It turns out that the two plugins hooked up actually are using different versions of the same jQuery library. Now you've got two different versions of the jQuery library linked up, and that's going to cause all problems and things will break and it won't work right. You want to make sure you only ever have one copy of the jQuery library plugin. I'm saying this now, but I promise it'll happen. How I see this is the most common error that I see from students who are working with jQuery is the follow the directions and they wind up with multiple copies, different versions of the jQuery library plugged in. That's the number 1 Gotcha. It happens a lot. 
-The second thing is file management. When you download a plugin, sometimes plugins require other files, whether it's CSS files or maybe an images folder, fonts or something else. You want to make sure that when you put those files in your folder, everything is going into the correct spot and is linked properly. Because for the web, remember, everything is linked. All the files are linked to each other. If those links become broken, then your project won't work and it won't work properly. Make sure you have all the correct files and all the correct places for the plugin to work. That's number 2, those two issues comprise 90 percent of the problems that people have with plugins, it's probably those two problems. 
-The next thing (number 3) is top of the page versus bottom of the page. Make sure you're placing your plugins scripts in the correct place. Some of them may require you to load jQuery up at the top of the page. Usually, you can put them where you want as long as you run the scripts properly. 
-But make sure you have a strategy for where your JavaScript is going to load, whether you're going to have it load at the bottom of the page before the closing body tag, or whether you're going to put the links to scripts up in the top of the page and maybe use the defer attribute to make sure they don't load into the whole page is loaded. Keep that in mind. 
-Now, jQuery has a document ready method that will check to see that the DOM is flooded before anything inside the document ready function runs. That's just checking to make sure your HTML is loaded. Sometimes people will provide plugins and tell you to use the document ready function. You'll need that if you're up at the top of the page and you're not using the deferred attribute. But if you put it at the bottom of the page, you may not need it. There's also a window load method, and that's in older versions of jQuery version 2 and lower. It's now been replaced with window.on and the load and you pass in load as the event that we're looking for and then run an anonymous function, which is what we used in the previous lesson with the sliders. Be aware about these different functions, what they do, which versions of jQuery they work with and that stuff, because if you're reading the documentation for a plugin, it could be older documentation. If their documentation is telling you to use window.load, but you're using the most recent version of the jQuery library, you'll have to switch it to the window.on method and use that one instead. You want to make sure that you're using these functions properly. Really where you're going to use these is just where you're initializing your script. Has nothing to do with loading the actual script file or the plugin file. This is where you initialize your script on your page where you're tying the plugin to run. You'll need to make sure you use these functions properly. 
-Then number 5 is overriding CSS on your stylesheet. If you want to customize the look of the plugin and you should put your rules that override the styles they've set on their specified CSS file, on your CSS file and then make sure your CSS file loads last. That way, when your access loads, it will override the access on their stylesheet. You don't want to overwrite the styles on their access file because if you ever update the plugin files, you'll lose that and you'll have to do it again. You want to make sure you put it on your CSS file. 
+Number 1 on this list is the biggest one, I see this all the time, especially with students who are new to working with JavaScript in jQuery, 
+and that is ending up with multiple copies of the jQuery library linked to your page. Only load the jQuery library once. You may have multiple 
+plugins, but you should only load one copy of the jQuery library, which is used by all the plugins. What happens is you find a plugin that add 
+some interesting functionality web page. You follow the directions and load the jQuery library and do all the directions to make that plugin 
+work. Then you find another plugin that does something else that you want to use. You follow the directions and that page and it tells you 
+to load the jQuery library and to load the plugins. You follow those directions and then in the end, you end up with the jQuery library loaded twice. 
+Frequently, when you download these plugins, they'll include a copy of the jQuery library. You'll follow the directions, you'll link up one, 
+then you'll think of another. It turns out that the two plugins hooked up actually are using different versions of the same jQuery library. 
+Now you've got two different versions of the jQuery library linked up, and that's going to cause all problems and things will break and it 
+won't work right. You want to make sure you only ever have one copy of the jQuery library plugin. I'm saying this now, but I promise it'll 
+happen. How I see this is the most common error that I see from students who are working with jQuery is the follow the directions and they 
+wind up with multiple copies, different versions of the jQuery library plugged in. That's the number 1 Gotcha. It happens a lot. 
+The second thing is file management. When you download a plugin, sometimes plugins require other files, whether it's CSS files or maybe an 
+images folder, fonts or something else. You want to make sure that when you put those files in your folder, everything is going into the 
+correct spot and is linked properly. Because for the web, remember, everything is linked. All the files are linked to each other. If those 
+links become broken, then your project won't work and it won't work properly. Make sure you have all the correct files and all the correct 
+places for the plugin to work. That's number 2, those two issues comprise 90 percent of the problems that people have with plugins, it's 
+probably those two problems. 
+The next thing (number 3) is top of the page versus bottom of the page. Make sure you're placing your plugins scripts in the correct place. 
+Some of them may require you to load jQuery up at the top of the page. Usually, you can put them where you want as long as you run the scripts 
+properly. 
+But make sure you have a strategy for where your JavaScript is going to load, whether you're going to have it load at the bottom of the page 
+before the closing body tag, or whether you're going to put the links to scripts up in the top of the page and maybe use the defer attribute 
+to make sure they don't load into the whole page is loaded. Keep that in mind. 
+Now, jQuery has a document ready method that will check to see that the DOM is flooded before anything inside the document ready function 
+runs. That's just checking to make sure your HTML is loaded. Sometimes people will provide plugins and tell you to use the document ready 
+function. You'll need that if you're up at the top of the page and you're not using the deferred attribute. But if you put it at the bottom 
+of the page, you may not need it. There's also a window load method, and that's in older versions of jQuery version 2 and lower. It's now 
+been replaced with window.on and the load and you pass in load as the event that we're looking for and then run an anonymous function, which 
+is what we used in the previous lesson with the sliders. Be aware about these different functions, what they do, which versions of jQuery 
+they work with and that stuff, because if you're reading the documentation for a plugin, it could be older documentation. If their 
+documentation is telling you to use window.load, but you're using the most recent version of the jQuery library, you'll have to switch it 
+to the window.on method and use that one instead. You want to make sure that you're using these functions properly. Really where you're 
+going to use these is just where you're initializing your script. Has nothing to do with loading the actual script file or the plugin file. 
+This is where you initialize your script on your page where you're tying the plugin to run. You'll need to make sure you use these functions properly. 
+Then number 5 is overriding CSS on your stylesheet. If you want to customize the look of the plugin and you should put your rules that 
+override the styles they've set on their specified CSS file, on your CSS file and then make sure your CSS file loads last. That way, when 
+your access loads, it will override the access on their stylesheet. You don't want to overwrite the styles on their access file because 
+if you ever update the plugin files, you'll lose that and you'll have to do it again. You want to make sure you put it on your CSS file. 
  
 Beware the plug in
-One last topic that I have to talk about before we're done with this lecture and plugins is just to beware of the plug in. Plugins can add bloat to your project with a lot of additional code that you may not need. All of the features, plugged features that are programmed into the plugin, but you may be only using one or two. That's something to be aware of. Without modification, plugins can make your site look generic, so if you're not updating the CSS file or adding your own styles to it, then it could look the same as everybody else's website. 
-Plugins can turn us into lazy designers looking for a quick fix. Rather than actually trying to solve our interaction design problem, we go look for a plugin that looks cool and interesting. That may not really be the right fit for a project just to avoid having to do some custom code. Watch out for that. 
-Also, plugins can be poorly written. They can have all bugs built into them because they're made by other developers. You don't really know. You really have to test them out and research them, find out who else is using them, what problems if they had, what sorts of things work well with them. It'll take time to do the research, but probably less time than actually writing the code yourself from scratch if it's an extensive plugin. It's worth it to make sure that the plugin you're using is really worthwhile. 
+One last topic that I have to talk about before we're done with this lecture and plugins is just to beware of the plug in. Plugins can 
+add bloat to your project with a lot of additional code that you may not need. All of the features, plugged features that are programmed 
+into the plugin, but you may be only using one or two. That's something to be aware of. Without modification, plugins can make your site 
+look generic, so if you're not updating the CSS file or adding your own styles to it, then it could look the same as everybody else's website. 
+Plugins can turn us into lazy designers looking for a quick fix. Rather than actually trying to solve our interaction design problem, we 
+go look for a plugin that looks cool and interesting. That may not really be the right fit for a project just to avoid having to do some 
+custom code. Watch out for that. 
+Also, plugins can be poorly written. They can have all bugs built into them because they're made by other developers. You don't really 
+know. You really have to test them out and research them, find out who else is using them, what problems if they had, what sorts of 
+things work well with them. It'll take time to do the research, but probably less time than actually writing the code yourself from 
+scratch if it's an extensive plugin. It's worth it to make sure that the plugin you're using is really worthwhile. 
  
 Looking to the future
-Getting used to using other people's code now via jQuery plugins is a good preparation for the future. If you get deeper into JavaScript coding, we might use other repositories of shared code, such as NPM, which is the world's largest software registry. Then having experience with jQuery plug ins will really help you out. It's very common in the software development world to be working on modularized blocks of code and working with plugins can be seen as an introduction to that way of thinking and working where you're taking functionality and separating it out into a separate file and then plugging it in. You have access to that. It's a really great way of thinking and working with JavaScript in jQuery in general and getting used to that here will help prepare you for a future as a JavaScript developer.
+Getting used to using other people's code now via jQuery plugins is a good preparation for the future. If you get deeper into JavaScript 
+coding, we might use other repositories of shared code, such as NPM, which is the world's largest software registry. Then having experience 
+with jQuery plug ins will really help you out. It's very common in the software development world to be working on modularized blocks 
+of code and working with plugins can be seen as an introduction to that way of thinking and working where you're taking functionality 
+and separating it out into a separate file and then plugging it in. You have access to that. It's a really great way of thinking and 
+working with JavaScript in jQuery in general and getting used to that here will help prepare you for a future as a JavaScript developer.
 
 PDF of Presentation
 Here is a PDF of the presentation slides used in the videos for this section: jQuery Plugins.
@@ -228,7 +346,8 @@ WEB1092_M01_jQuery Plugins.pdf
 
 PDF File
 Start Files: jQuery Plugins & Flexslider
-Attached is a zip file of the things you need to begin this exercise. A zip file is defined as: a computer file whose contents include one or more files that are compressed for storage or transmission, often carrying the extension .ZIP. 
+Attached is a zip file of the things you need to begin this exercise. A zip file is defined as: a computer file whose contents include 
+one or more files that are compressed for storage or transmission, often carrying the extension .ZIP. 
 WEB1092_FlexsliderBasic-Start
 ZIP File
 
@@ -238,36 +357,98 @@ ZIP File
 Additional Resource:
 •	How to open a zip file for either Mac or PC
 
-FlexSlider jQuery Slider plugin. Now that we've talked about jQuery plug-ins a bit, let's take a look at one that we can use to add a significant amount of interface options to our page. 
+FlexSlider jQuery Slider plugin. Now that we've talked about jQuery plug-ins a bit, let's take a look at one that we can use to add a 
+significant amount of interface options to our page. 
  
-The FlexSlider is a good one to look at. Partially because we've been working on image sliders, so, we come to this with the context of having created some sliders on our own, so, we can see what this particular plug-in has offered that's different from what we coated ourselves in the previous lessons. That's fun. 
+The FlexSlider is a good one to look at. Partially because we've been working on image sliders, so, we come to this with the context 
+of having created some sliders on our own, so, we can see what this particular plug-in has offered that's different from what we 
+coated ourselves in the previous lessons. That's fun. 
 The other thing that's nice about FlexSlider, it's called FlexSlider because it's a responsive slider. 
    
-I've opened up the page over here and you can see if I pull this off and resize it, the page is responsive and it squishes and stretches, and so, we can actually create a slider that will work for different screen sizes using FlexSlider. That's fun. 
+I've opened up the page over here and you can see if I pull this off and resize it, the page is responsive and it squishes and 
+stretches, and so, we can actually create a slider that will work for different screen sizes using FlexSlider. That's fun. 
  
-If you look at the markup, you'll notice that it's pretty basic. If you download the start files that come with this lesson, I have in here some basic markup. 
+If you look at the markup, you'll notice that it's pretty basic. If you download the start files that come with this lesson, 
+I have in here some basic markup. 
    
-This is where the actual slider will go, and then I've just got some columns and some articles, and then the styling is all in place on the CSS file that includes some media queries for when the screen gets larger or smaller. The media queries, will handle the sizing of stuff on the page, and there's just a few rules in there just because this is pretty basic, but there we have it. We'll make a slider about kittens because, who doesn't love kittens? Kittens are awesome. 
+This is where the actual slider will go, and then I've just got some columns and some articles, and then the styling is all 
+in place on the CSS file that includes some media queries for when the screen gets larger or smaller. The media queries, 
+will handle the sizing of stuff on the page, and there's just a few rules in there just because this is pretty basic, but 
+there we have it. We'll make a slider about kittens because, who doesn't love kittens? Kittens are awesome. 
  
-We looked at the media queries and they'll handle the screen if it's wider than 600 pixels. Up to 600 pixels you just get a very basic layout, and then once you get larger than that, it will give you a more of a layout on the page with the columns. Okay. 
+We looked at the media queries and they'll handle the screen if it's wider than 600 pixels. Up to 600 pixels you just get 
+a very basic layout, and then once you get larger than that, it will give you a more of a layout on the page with the columns. Okay. 
  
 Then the next thing is the FlexSlider Website and the FlexSlider Script. 
  
-If you go to the FlexSlider Website, which is here, you can download FlexSlider or you can click on the Live Demo. It's posted by WooCommerce and they have the basic directions here with some additional functionality that we'll look at, and this is the documentation for how to use FlexSlider right here on this page, and you can download the files to get started. However, I've already provided the same files with this lesson, so, you don't have to go there and download them, they're also included with this lesson. 
+If you go to the FlexSlider Website, which is here, you can download FlexSlider or you can click on the Live Demo. It's 
+posted by WooCommerce and they have the basic directions here with some additional functionality that we'll look at, and 
+this is the documentation for how to use FlexSlider right here on this page, and you can download the files to get started. 
+However, I've already provided the same files with this lesson, so, you don't have to go there and download them, they're 
+also included with this lesson. 
  
 Get those files first by either clicking the Download button here or by downloading the FlexSlider files of this lesson. 
  
-Now, when you get those files, the FlexSlider files, you're going to need to figure out what you need in order to actually make the FlexSlider work in your project. This is a little bit confusing, especially if you're not that familiar with this thing. Let me go through it carefully, because you're likely to run into this with other plug-ins as well. 
+Now, when you get those files, the FlexSlider files, you're going to need to figure out what you need in order to actually 
+make the FlexSlider work in your project. This is a little bit confusing, especially if you're not that familiar with this 
+thing. Let me go through it carefully, because you're likely to run into this with other plug-ins as well. 
    
-Here on the left, I have my folder with my website in it, that's my index page, I've got a JavaScript file, I've got slides which have different slides for the different pictures of the kittens, and I've got my style-sheet, that's what's in my folder. 
+Here on the left, I have my folder with my website in it, that's my index page, I've got a JavaScript file, I've got slides 
+which have different slides for the different pictures of the kittens, and I've got my style-sheet, that's what's in my folder. 
    
-Over here, these are the files that got downloaded. When I unzipped the FlexSlider folder this is what I got. You might wonder what some of this stuff is, bower-components and bower.json. Bower is a build tool that's used to combine stuff together, so, we can ignore those. The change-log will show different versions of the program, composer is a different build tool, contributing is another file that talks about it. If you look in the CSS folder, you'll see there's a bunch of ‘less’ files that compile down into basic CSS files, so, we don't need that. The Demo will run to show the Demos of the different versions of the FlexSlider, so, you don't need those files, but you can look at them if you want to. Then we've got some files down here. We've got a less version, we've got a CSS, we got an rtl.css and rtl-min.css, fonts, images, all this stuff. 
-Really the only things that we need in our folder are the actual plugin and we want the minified version, notice here, the non-minified version is 57KB, the minified version is less than half of that in size. We want people to have to download the smallest file possible. We need the CSS file and we're actually going to need this fonts folder. The fonts folder includes a font that as the next button in the previous button that will show up on the slider, so, we need that in order for this ‘next’ and ‘previous’ buttons to load properly. We will need that as well. 
+Over here, these are the files that got downloaded. When I unzipped the FlexSlider folder this is what I got. You might 
+wonder what some of this stuff is, bower-components and bower.json. Bower is a build tool that's used to combine stuff 
+together, so, we can ignore those. The change-log will show different versions of the program, composer is a different 
+build tool, contributing is another file that talks about it. If you look in the CSS folder, you'll see there's a bunch 
+of ‘less’ files that compile down into basic CSS files, so, we don't need that. The Demo will run to show the Demos of 
+the different versions of the FlexSlider, so, you don't need those files, but you can look at them if you want to. 
+Then we've got some files down here. We've got a less version, we've got a CSS, we got an rtl.css and rtl-min.css, 
+fonts, images, all this stuff. 
+Really the only things that we need in our folder are the actual plugin and we want the minified version, notice 
+here, the non-minified version is 57KB, the minified version is less than half of that in size. We want people to 
+have to download the smallest file possible. We need the CSS file and we're actually going to need this fonts folder. 
+The fonts folder includes a font that as the next button in the previous button that will show up on the slider, so, 
+we need that in order for this ‘next’ and ‘previous’ buttons to load properly. We will need that as well. 
    
 I'm going to grab the FlexSlider.css, the fonts, and the minified version of FlexSlider. Just those three files, the rest of it I don't need. I'm going to put them into my project folder over here so that I have them, and that gets us all the files that we need in order to get started for this project.
  
 About the Minified Version
-And again, I'm just repeating myself here but it's really important that you understand this. The Minified version is the same file with all the same with all the white space removed and a few other things done to make the file smaller and faster to download. Use that version if it's available for any plug in that you want to use. The non-modified version is available if you want to see the actual Javascript or maybe even edited, but you'll probably never want to do that. So, we'll always use the Minified version. And again, these are the files that we actually need for our project. So, we're going to copy them over and put them into our project folder just like you see here and just like we did just a minute ago in the previous video. Next, it's about following the directions to make the flex slider work, and you can come back to the flex slider website and I recommend that you do this. Even though I'm going to walk through doing it with you, it's good to sort of come in here and see how these directions are written and to understand what the steps are. First, link the files, then add the markup, then hook up your slider, and then tailor it's units with special stuff down here. And if you're new to this, this may look a little bit confusing and difficult, but it's really not. And also it may be written differently for different plug ins. So, it's important to know a little bit about how Javascript works in order to get this stuff to work, right? Once you've done it a few times for a few different plug ins, you'll see there's a lot of similarities. All right, so let's go through this together. So, you can see what I mean about how to do this. First, we can look at where these scripts go, and over here, notice this one is listing jQuery 1.6.2, that's a really old version of jQuery. And then we've got the flex slider Js here, we've got the CSS file. I'd rather load up the most recent version of jQuery rather than the old version of jQuery. So, let's go over to our files over here. And on our index page, up at the top of the page, this is where we want to put a link to the flex slider CSS. So, I'm just going to add a link here, link href = " flexslider.css". Don't forget rel ="stylesheet", and make sure you spell style sheet right. Okay, so that will link that up. You can see I've got jquery 2.2.4 loaded here, as opposed to the 1.6. But I'm actually going to load the most recent version of jQuery. So, I'm going to come back here and I'm going to go and look for jquery cdn in google, Google Hosted Libraries. I'm going to go find jquery. And here is the latest version of jquery. You'll notice it's been updated recently to 3.6, okay. So, I'm going to replace this version of jquery with that one. But notice I need to go back and add the differ, I want to put differ back in here because really I want this script to load at the bottom of the screen. Okay, now I want to load the jQuery Flexslider script. So, I'm going to put that in here, script src equals quote, and I want this one, that's the plug in. I'm going to load that one next, and then I've got my script file here and it's currently empty, but I want to load that file last, script as we are seeing, equals quote myscript.js. There we go, I've got the files loaded. So, what's the next thing that we need to do? If we come back to the directions, it says place somewhere in the head of your document. The other thing I want to do is I want to put the deffer attribute on my script. Let's do that too. Because we want to make sure that it loads after the jQuery library. So, I want to put deffer here, and deffer down here. So, that they will load in this order, first this library, then the plug in, then my script. And they'll load after the rest of the page is loaded, just to be certain. So, we've got that, okay. The next thing we need to do is to add the markup, and this is the markup this plug in expects. It expects a div with the class, flexslider, and a ul with the class slides, then list items with the images inside of it, and we'll do that in the next video.
+And again, I'm just repeating myself here but it's really important that you understand this. The Minified version is 
+the same file with all the same with all the white space removed and a few other things done to make the file smaller 
+and faster to download. Use that version if it's available for any plug in that you want to use. The non-modified 
+version is available if you want to see the actual Javascript or maybe even edited, but you'll probably never want 
+to do that. So, we'll always use the Minified version. And again, these are the files that we actually need for our 
+project. So, we're going to copy them over and put them into our project folder just like you see here and just like 
+we did just a minute ago in the previous video. Next, it's about following the directions to make the flex slider 
+work, and you can come back to the flex slider website and I recommend that you do this. Even though I'm going to 
+walk through doing it with you, it's good to sort of come in here and see how these directions are written and to 
+understand what the steps are. First, link the files, then add the markup, then hook up your slider, and then tailor 
+it's units with special stuff down here. And if you're new to this, this may look a little bit confusing and difficult, 
+but it's really not. And also it may be written differently for different plug ins. So, it's important to know a little 
+bit about how Javascript works in order to get this stuff to work, right? Once you've done it a few times for a few 
+different plug ins, you'll see there's a lot of similarities. All right, so let's go through this together. So, you 
+can see what I mean about how to do this. First, we can look at where these scripts go, and over here, notice this 
+one is listing jQuery 1.6.2, that's a really old version of jQuery. And then we've got the flex slider Js here, we've 
+got the CSS file. I'd rather load up the most recent version of jQuery rather than the old version of jQuery. So, let's 
+go over to our files over here. And on our index page, up at the top of the page, this is where we want to put a link 
+to the flex slider CSS. So, I'm just going to add a link here, link href = " flexslider.css". Don't forget 
+rel="stylesheet", and make sure you spell style sheet right. Okay, so that will link that up. You can see I've got 
+jquery 2.2.4 loaded here, as opposed to the 1.6. But I'm actually going to load the most recent version of jQuery. 
+So, I'm going to come back here and I'm going to go and look for jquery cdn in google, Google Hosted Libraries. 
+I'm going to go find jquery. And here is the latest version of jquery. You'll notice it's been updated recently 
+to 3.6, okay. So, I'm going to replace this version of jquery with that one. But notice I need to go back and add 
+the differ, I want to put differ back in here because really I want this script to load at the bottom of the screen. 
+Okay, now I want to load the jQuery Flexslider script. So, I'm going to put that in here, script src equals quote, and 
+I want this one, that's the plug in. I'm going to load that one next, and then I've got my script file here and it's 
+currently empty, but I want to load that file last, script as we are seeing, equals quote myscript.js. There we go, 
+I've got the files loaded. So, what's the next thing that we need to do? If we come back to the directions, it says 
+place somewhere in the head of your document. The other thing I want to do is I want to put the deffer attribute on 
+my script. Let's do that too. Because we want to make sure that it loads after the jQuery library. So, I want to put 
+deffer here, and deffer down here. So, that they will load in this order, first this library, then the plug in, then 
+my script. And they'll load after the rest of the page is loaded, just to be certain. So, we've got that, okay. The 
+next thing we need to do is to add the markup, and this is the markup this plug in expects. It expects a div with 
+the class, flexslider, and a ul with the class slides, then list items with the images inside of it, and we'll do 
+that in the next video.
  
 In the last video, we got all of our files linked and everything hooked up so that it should all be ready to work. You want to make sure that your stylesheet loads after the FlexSlider style sheets, that you can modify changes there. We'll get to more on that later. Now, we're ready to actually come down here and make our markup work the way it's supposed to work. If we come back to our slides and our directions, it says to make the markup look like this. This is what we need to do. This is what this particular script requires. It requires a div with the class of FlexSlider and unordered list of the class of slides, and then we can actually put our images inside each list item for that unordered list. Let's go over here and set this up the same way. We need a div, we need a class, equals FlexSlider on here. This needs a class equals slides. Then down here, we can have list items with our different pictures in here, and I'm just going to copy this one and paste it. Over here in the folder, I have slides and I have seven of them. I have seven kittens here. Let's go ahead and add the six more times. 1,2,3,4,5,6, and then just change these numbers, 2, 3, 4, 5, 6, and 7. That will give us seven slides with seven kittens, one on each side. That's great. Now we've got our markup looking the way that it needs to look for our project. What's the next thing that we need to do? We did the markup, we got that all in, so that's great. Step 3, directions. Hook up the FlexSlider. This thing says to use the window.load function. Now, I happen to know that the window.load function does not work with the latest version of jQuery, but that's okay. This is what it says down here. We could just copy this, window.load function here. This place after these links, script type JavaScript. But we're going to put this not inside script tags, but we already have a separate file called MyScript that's linked up here. That's this one here. I'm going to put it on there, MyScript. Take FlexSlider and make it run. This says jQuery, go get this FlexSlider element, dot FlexSlider. Remember, we put that class on the FlexSlider and run the FlexSlider function here. Now, this function exists because we have the plug-in. The plug-in is defining this function. This is in addition to jQuery and it wouldn't exist otherwise. We're putting it inside window load because we want to make sure all the images offloaded before we can actually start making the slider run. So we want to make that happen first. But I happen to know that this isn't going to work because the window.load function is deprecated and they want us to use window.on instead. But let's just test it anyway. If I come over here and refresh this page, you'll notice the FlexSlider is not here. If I do inspect and then come over to the console, index self is not a function. If you're seeing this stuff where the problem is actually in the jQuery library, jquery.min.js:2, function load, this is a really good indicator that something's wrong with jQuery itself. It's not anything we did. It's actually jQuery. What's wrong here is that the latest version of jQuery does not support this file. Now, if I were to go back to my hosted libraries and take this one instead, and come back here and replace it, you'll see that it'll work if I put this up here instead of the newest version. When I put that in there, put my defer back in, and now if I go test the page, you'll see that it works. Close this, refresh. Look at that, we have a kitten slider, and it's working, I get my errors, I get these buttons down here, so I've got this additional functionality, and it's working. It's doing everything it's supposed to do. But what if I really want to have the latest version of jQuery? Well, this is where knowing a little bit of JavaScript and a little bit of jQuery really helps, because I know that this load method here has been replaced. It's been deprecated. You could go look that up on the jQuery website if you wanted to. But I'm going to come back here and I'm going to command Z and put this back to the version 3.6 and save that. Over here instead of load I'm going to use on, and in here, I'm going to put in load as an event and then run the function and watch this. That should work. Make sure both files are saved, come back and refresh and look at that, it works fine using the on method, the more up-to-date method. Okay, great. Now, while we're here, let me just do one other thing. Suppose I forgot something. This is the thing that is often forgotten here is what if I forgot to include this fonts folder in my files? I'm going to move that to the trash. Come back here and refresh this. Use these boxes instead of the arrows. That's what that fonts thing is actually doing. It's just providing the fonts there. Could you do something other than those arrows? Yes, you can. You can customize the slider so it doesn't use those arrows. But for right now, let's just leave it at the default, which means I want to leave these arrows, that fonts folder back over there because the script is making use of that in order to put those arrows on the page. There they are, they're back again. Okay, great. We've got the basic slider working, now we can talk about what else we need to do with it and we'll do that in the next video.
  
