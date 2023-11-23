@@ -27,12 +27,14 @@ processes for breaking larger programs into smaller, more manageable pieces.
 <h3>Week One:</h3>
 <h4>Getting Started & jQuery Plugins and Capturing the Scroll Event</h4>
 
-In this module, you will be introduced to jQuery plugins and be able to present the advantages and challenges associated with using jQuery plugins. 
+<p>In this module, you will be introduced to jQuery plugins and be able to present the advantages and challenges associated with using jQuery plugins. 
 You will also be able to recognize common mistakes to avoid when using jQuery plugins. You will be introduced to the Flexslider jQuery plugin and 
-be able to use it to build basic and more advanced image sliders.
+be able to use it to build basic and more advanced image sliders.</p>
 
 <h5>13 videos, 4 readings</h5>
-  * Reading: A Note from UC Davis<br>
+
+  - Reading: A Note from UC Davis<br>
+  
 1.	Video: Welcome to this Course!
 2.	Video: Module Introduction
 3.	Video: Introduction to jQuery Plugins
