@@ -40,8 +40,8 @@ be able to use it to build basic and more advanced image sliders.</p>
 3.	Video: Introduction to jQuery Plugins
 4.	Video: Using Plugins and Essential Steps
 5.	Video: Gotchas and Rookie Mistakes
-  * Reading: PDF of Presentation<br>
-  * Reading: Start Files: jQuery Plugins & Flexslider<br>
+  - Reading: PDF of Presentation<br>
+  - Reading: Start Files: jQuery Plugins & Flexslider<br>
 6.	Video: FlexSlider: A jQuery Plugin
 7.	Video: About the Minified Version
 8.	Video: Adding Markup & Hooking Up the Slider
@@ -50,7 +50,7 @@ be able to use it to build basic and more advanced image sliders.</p>
 11.	Video: Advanced FlexSlider
 12.	Video: Additional Styling
 13.	Video: Styling the CTA
-  * Reading: PDF of Presentation<br>
+  - Reading: PDF of Presentation<br>
   - Discussion Prompt: Module 1 Reflection<br>
 
 <h3>Week Two:</h3>
@@ -66,12 +66,12 @@ jQuery plugins explored in this course into the Scription webpage through a seri
 
 1.	Video: Module Introduction
 2.	Video: Introduction to Smooth Scroll with jQuery<br>
-Reading: Start Files: Smooth Scroll with jQuery<br>
+  - Reading: Start Files: Smooth Scroll with jQuery<br>
 3.	Video: Creating a Click Handler
 4.	Video: Adding the Animation
 5.	Video: Add Some Easing and a Callback Function
 6.	Video: Highlighting Elements<br>
-Reading: PDF of Presentation<br>
+  - Reading: PDF of Presentation<br>
 7.	Video: Introduction to Page Location Tracking
 8.	Video: The Crux of the Problem
 9.	Video: Strategy
@@ -83,9 +83,9 @@ Reading: PDF of Presentation<br>
 15.	Video: Resetting the Counter
 16.	Video: resetPagePosition Function
 17.	Video: Reviewing the Whole Script<br>
-Reading: PDF of Presentation<br>
+  - Reading: PDF of Presentation<br>
 18.	Video: Introduction to Scroll Effects with JS<br>
-Reading: Start Files: Smooth Scroll with JavaScript<br>
+  - Reading: Start Files: Smooth Scroll with JavaScript<br>
 19.	Video: Getting the Target - Part 1
 20.	Video: Getting the Target - Part 2
 21.	Video: Smooth Scroll Polyfill
@@ -96,10 +96,10 @@ Reading: Start Files: Smooth Scroll with JavaScript<br>
 26.	Video: Changing the Next Link
 27.	Video: Resizing Function
 28.	Video: Finalizing the Script<br>
-Reading: PDF of Presentation<br>
-Discussion Prompt: Module 2 Reflection<br>
+  - Reading: PDF of Presentation<br>
+  - Discussion Prompt: Module 2 Reflection<br>
 29.	Video: Scription Site Introduction<br>
-Reading: Start Files: Scription Site<br>
+  - Reading: Start Files: Scription Site<br>
 30.	Video: Header HTML
 31.	Video: Pricing HTML
 32.	Video: Beginning Styling
@@ -110,8 +110,8 @@ Reading: Start Files: Scription Site<br>
 37.	Video: Media Query for 1020 Pixels Wide
 38.	Video: Media Query for 1200 Pixels Wide
 39.	Video: Scription Site: Building Interactive Elements Challenges<br>
-Reading: Scription Finished Version<br>
-Reading: PDF of Presentations<br>
+  - Reading: Scription Finished Version<br>
+  - Reading: PDF of Presentations<br>
 
 <h3>Week Three:</h3>
 <h4>Introduction to Objects & Data in JavaScript</h4>
@@ -123,20 +123,20 @@ a problem down into smaller pieces.
 11 videos, 4 readings
 1.	Video: Module Introduction
 2.	Video: Introduction to Objects and Data in JS<br>
-Reading: Start Files: Working with Objects in JavaScript<br>
+  - Reading: Start Files: Working with Objects in JavaScript<br>
 3.	Video: Objects Can Contain Arrays and Other Objects
 4.	Video: Functions Inside Objects Equals Methods
 5.	Video: Putting Objects and Functions Together
 6.	Video: Data Formats - XML
 7.	Video: Example File<br>
-Reading: PDF of Presentations<br>
+  - Reading: PDF of Presentations<br>
 8.	Video: Introduction to Pig Dice Game<br>
-Reading: Pig Dice Game Diagrams<br>
+  - Reading: Pig Dice Game Diagrams<br>
 9.	Video: Play the Game of Pig
 10.	Video: Version One
 11.	Video: Other Versions<br>
-Reading: PDF of Presentations<br>
-Discussion Prompt: Module 3 Reflection<br>
+  - Reading: PDF of Presentations<br>
+  - Discussion Prompt: Module 3 Reflection<br>
 
 <h3>Week Four:</h3>
 <h4>Building a Simple Game in JavaScript</h4>
@@ -147,7 +147,7 @@ more functions and complexity. You will be able to then extend the script in man
 15 videos, 2 readings
 1.	Video: Module Introduction
 2.	Video: Introduction to the Game of Pig<br>
-Reading: Start Files: Game of Pig<br>
+  - Reading: Start Files: Game of Pig<br>
 3.	Video: Start the Game
 4.	Video: Set Up the Turn
 5.	Video: Throwing the Dice
@@ -160,10 +160,10 @@ Reading: Start Files: Game of Pig<br>
 12.	Video: Show the Current Score
 13.	Video: Final Clean-Up
 14.	Video: Extending the Game<br>
-Reading: PDF of Presentation<br>
-Discussion Prompt: Module 4 Reflection<br>
+  - Reading: PDF of Presentation<br>
+  - Discussion Prompt: Module 4 Reflection<br>
 15.	Video: Course Summary<br>
-Discussion Prompt: Self-Reflection<br>
+  - Discussion Prompt: Self-Reflection<br>
 
 <h3>A Note from UC Davis</h3>
 
@@ -201,24 +201,31 @@ through academic integrity. Be sure to read the Coursera guidelines and the Cour
 We look forward to having you in this course. Happy learning!
 
 UC Davis Coursera Team
-Additional Links:
+
+<h3>Additional Links:</h3>
 •	Coursera’s Learner Support/Help Center:
-https://learner.coursera.help/hc/en-us
+  https://learner.coursera.help/hc/en-us
 
 •	Flagging a Lecture:
-https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course
+  https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course
 
 •	Assignment Deadlines: 
-https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines
+  https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines
 
 •	Peer Reviewed Assignments:
-https://learner.coursera.help/hc/en-us/sections/201895903-Peer-reviewed-assignments
+  https://learner.coursera.help/hc/en-us/sections/201895903-Peer-reviewed-assignments
 
 •	Coursera’s Honor Code:
-https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code
+  https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="Week1-01">Week 1.01. Course Introduction (0:40)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. course introduction (07) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image002.png?raw=true"
+  style="width:40%"
+  alt="Course Introduction: Interactivity with JavaScript and jQuery." />
 
-<h2>Week 1.01. Course Introduction (0:40)</h2>
- 
 Hello and welcome to our 3rd course in our four-core specialization on JavaScript. My name is Bill Mead and I'm back again to do more JavaScript with you. 
 Hopefully you've completed our first two courses on JavaScript and you've learned a lot about the syntax of JavaScript and how to solve problems with 
 JavaScript. It takes a lot of practice to get good at this stuff. 
@@ -226,13 +233,13 @@ I'm back again to do more with you to introduce some new concepts, to do some ne
 more practice. You get even better with JavaScript and JQuery. We're going to do a lot in this course. Let's break out our code editors and our web 
 browsers and get started and learn even more about JavaScript.
  
-Hello and welcome to our first module in our third course on JavaScript. In this module, we're going to dive even deeper into jQuery, looking at some 
-jQuery plugins. You've already made some sliders in a previous lesson. But in this lesson, we'll look at the flex slider plugin, which adds a lot of 
-features, two sliders and comparing that to what you've done manually by creating your own sliders is really instructive and useful. Plus, you end up 
-with a great tool for creating slider elements on web pages and that's really pretty fun.
+In this module, we're going to dive even deeper into jQuery, looking at some jQuery plugins. You've already made some sliders in a previous lesson. But 
+in this lesson, we'll look at the flex slider plugin, which adds a lot of features, two sliders and comparing that to what you've done manually by 
+creating your own sliders is really instructive and useful. Plus, you end up with a great tool for creating slider elements on web pages and that's 
+really pretty fun.
 
-## Week 1.02. Introduction to jQuery Plugins (3:49)
- 
+<h2 id="Week1-03">Week 1.03. Introduction to jQuery Plugins (3:49)</h2>
+
 Just as a quick recap, we've learned a lot of JavaScript so far. 
  
 We started with the JavaScript basics, which included working with variables, flow control structures like if statements and else statements and loops, 
@@ -284,7 +291,7 @@ you want it to display, but you want to make sure that this script loads last. S
 then you'll have jQuery, then the jQuery plugin, and then you will initialize the plug in on your own script. And then also make sure that if 
 there's any CSS files, those are included as well. 
  
-Documentation Mish-Mash
+<h3>Documentation Mish-Mash</h3>
 Suppose you find a jQuery plugin you want to try on your website, how do you go about adding it to your page? How do you know what to do? 
 Because these plugins are all made by different developers or groups of developers, there's no real standard in terms of the documentation. 
 So, this is where having a solid foundation in JavaScript really helps, because you need to look at the documentation they provide, and be 
@@ -295,9 +302,7 @@ why it's really helpful to have a solid JavaScript foundation, before trying to 
 see once you work with a few plugins that many of them work pretty much the same way. The documentation may look a little bit different; the 
 directions may be written a little bit different, but it's the same basic steps each time.
 
- 
-Gotchas and rookie mistakes. 
- 
+<h3>Gotchas and rookie mistakes</h3>
 Number 1 on this list is the biggest one, I see this all the time, especially with students who are new to working with JavaScript in jQuery, 
 and that is ending up with multiple copies of the jQuery library linked to your page. Only load the jQuery library once. You may have multiple 
 plugins, but you should only load one copy of the jQuery library, which is used by all the plugins. What happens is you find a plugin that add 
