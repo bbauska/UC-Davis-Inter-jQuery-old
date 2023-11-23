@@ -166,24 +166,32 @@ A Note from UC Davis
 Welcome to this course!
 We are delighted to be a part of your continuing education. This course will provide you with a variety of tools and learning opportunities, to include 
 video lectures, readings, assessments, peer reviews, and an opportunity to contribute to the Coursera learning community in the discussion forums.
+
 In each of the lesson sections, you’ll find learning objectives, lecture videos, readings, activities, and an opportunity to test your knowledge in 
 quiz format. In some of the module sections you’ll also work on assignments and grade the work of your peers. A peer-review assignment, is one where 
 you and your fellow learners have an opportunity to review and grade each other’s work. We’ll dive more into peer reviews later on in this course.
+
 When navigating the course, you can find available course resources under each of the lecture videos in a section labeled “Downloads” – here you can 
 download the lecture video, view transcripts, PDFs of the lecture slides, and find additional readings or files. 
+
 If you run into any issues during this course, learner support is available to all Coursera students. The link for Coursera’s Learner support is 
-included below. The Help Center/Learner Support includes topics such as account setup, payments, enrollment questions, and troubleshooting common problems. 
+included below. The Help Center/Learner Support includes topics such as account setup, payments, enrollment questions, and troubleshooting common problems.
+
 If you find any content issues, be sure to let the course staff know by flagging the lecture, assignment, reading, or quiz and this will inform us 
 of where these issues occur. Here is the link for more information on how to Flag an Issue - it is also listed below. 
+
 One of the great things about Coursera courses is that they are self-paced. The course dates are based on the average time it takes to complete a 
 course. However, if you need additional time to complete a course you can reset your deadlines with no penalties. More information on resetting 
 deadlines can be found here: Assignment Deadlines
+
 Need additional help during your course session? Be sure to utilize the discussion forums and interact with your fellow peers. In this area, you 
 can ask questions or search for similar issues that have already been posted in the forums. Learner support is also a great place to find answers, 
 but specific course content questions can typically be found and answered in the discussion forums. This is also a great place to post your assignment 
 if additional peer reviews are needed. Here is a link with more information on the discussion forums: Discussion Forums
+
 Because of the self-paced nature of Coursera courses, this is an excellent opportunity to show your commitment to your work and the work of your peers 
 through academic integrity. Be sure to read the Coursera guidelines and the Coursera Honor Code here: Coursera Honor Code 
+
 We look forward to having you in this course. Happy learning!
 
 UC Davis Coursera Team
@@ -201,10 +209,9 @@ https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines
 https://learner.coursera.help/hc/en-us/sections/201895903-Peer-reviewed-assignments
 
 •	Coursera’s Honor Code:
-
 https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code
 
-## Week 1.01. Course Introduction (0:40)
+<h2>Week 1.01. Course Introduction (0:40)</h2>
  
 Hello and welcome to our 3rd course in our four-core specialization on JavaScript. My name is Bill Mead and I'm back again to do more JavaScript with you. 
 Hopefully you've completed our first two courses on JavaScript and you've learned a lot about the syntax of JavaScript and how to solve problems with 
