@@ -5,8 +5,8 @@ slug: JavaScript/Java/Learn/Interactivity_with_JavaScript/The_head_metadata_in_H
 page-type: JavaScript & jQuery
 ---
 
-# Interactivity with JavaScript & jQuery
-###### taught by William Mead, Lecturer
+<h1>Interactivity with JavaScript & jQuery</h1>
+<h6>taught by William Mead, Lecturer</h6>
 
 The &lt;head&gt; of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such 
 as the page <b>title</b>, links to glossary("CSS")
@@ -14,17 +14,19 @@ as the page <b>title</b>, links to glossary("CSS")
 important keywords that describe the document). Web browsers use information contained in the {&lt;head&gt;  to render the HTML document correctly. 
 In this article we'll cover all of the above and more, in order to give you a good basis for working with markup.
 
-### About this Course
+<h3>About this Course</h3>
+
 This course is the third in our JavaScript for Beginners Specialization. The scripts will become more complex and introduce more complex jQuery 
 plugins. You will have several challenges to practice your skills throughout the course. The course objectives include how to identify objects 
 in JavaScript; create new objects and populate them with data; manipulate objects by adding, modifying and deleting data in objects; manipulate 
 the DOM based on the data in objects; identify and articulate how multiple functions work together to create a more complex program; and identify 
 processes for breaking larger programs into smaller, more manageable pieces.
 
-## Syllabus
+<h2>Syllabus</h2>
 
-### Week One: 
-Getting Started & jQuery Plugins and Capturing the Scroll Event
+<h3>Week One:</h3>
+<h4>Getting Started & jQuery Plugins and Capturing the Scroll Event</h4>
+
 In this module, you will be introduced to jQuery plugins and be able to present the advantages and challenges associated with using jQuery plugins. 
 You will also be able to recognize common mistakes to avoid when using jQuery plugins. You will be introduced to the Flexslider jQuery plugin and 
 be able to use it to build basic and more advanced image sliders.
@@ -49,8 +51,9 @@ Reading: Start Files: jQuery Plugins & Flexslider<br>
 Reading: PDF of Presentation<br>
 Discussion Prompt: Module 1 Reflection<br>
 
-### Week Two: 
-Combining Scripts and Skill Building Through Practice
+<h3>Week Two:</h3>
+<h4>Combining Scripts and Skill Building Through Practice</h4>
+
 In this module, you will be able to use jQuery to create a smooth scroll effect for in-page navigation, as well as develop a script, using 
 jQuery, that keeps track of scroll positions on the page. You will be able to compare and contrast the in-page smooth scroll script and the 
 location tracking script created using jQuery with one created using plain JavaScript. You will be able to build a webpage using HTML and 
@@ -107,8 +110,9 @@ Reading: Start Files: Scription Site<br>
 Reading: Scription Finished Version<br>
 Reading: PDF of Presentations<br>
 
-### Week Three: 
+<h3>Week Three:</h3>
 <h4>Introduction to Objects & Data in JavaScript</h4>
+
 In this module, you will be introduced to the object literal and be able to demonstrate some of the ways to manipulate data inside objects. 
 You will be able to develop good habits and processes that help with thinking about how to solve a programming problem, including breaking 
 a problem down into smaller pieces.
@@ -131,10 +135,12 @@ Reading: Pig Dice Game Diagrams<br>
 Reading: PDF of Presentations<br>
 Discussion Prompt: Module 3 Reflection<br>
 
-### Week Four: 
+<h3>Week Four:</h3>
 <h4>Building a Simple Game in JavaScript</h4>
+
 By building this game within this module, you will be able to practice the JavaScript you have already learned while constructing a script with 
 more functions and complexity. You will be able to then extend the script in many creative ways.
+
 15 videos, 2 readings
 1.	Video: Module Introduction
 2.	Video: Introduction to the Game of Pig<br>
