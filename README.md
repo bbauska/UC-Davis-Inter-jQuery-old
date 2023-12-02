@@ -5,7 +5,7 @@ slug: JavaScript/Java/Learn/Interactivity_with_JavaScript/The_head_metadata_in_H
 page-type: JavaScript & jQuery
 ---
 
-<h1>v1 - Interactivity with JavaScript & jQuery</h1>
+<h1>Interactivity with JavaScript & jQuery</h1>
 <h6>taught by William Mead, Lecturer</h6>
 
 The &lt;head&gt; of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such 
