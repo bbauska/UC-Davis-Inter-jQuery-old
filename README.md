@@ -1,5 +1,5 @@
 ---
-v1-UC-Davis-Inter-with-jQuery : University of California @Davis  - Interactivity with JavaScript & jQuery
+UC-Davis-Inter-with-jQuery : University of California @Davis  - Interactivity with JavaScript & jQuery
 title: Interactivity with JavaScript & jQuery
 slug: JavaScript/Java/Learn/Interactivity_with_JavaScript/The_head_metadata_in_HTML
 page-type: JavaScript & jQuery
